@@ -3,10 +3,9 @@ hw 2
 
 Q.1
 
-TaxID;Order
-7580;Rodentia
-42632;Rodentia
-42653;Rodentia
-42662;Macroscelidea
-16652;Rodentia
-
+Order
+Rodentia
+Rodentia
+Rodentia
+Macroscelidea
+Rodentia
